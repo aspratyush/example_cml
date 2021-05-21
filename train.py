@@ -7,6 +7,7 @@ import json
 import os
 import numpy as np
 import tensorflow as tf
+from tensorflow.keras import layers
 
 ################## Test 1 ####################
 seed = 42
